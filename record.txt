@@ -1,0 +1,8 @@
+Minho 400
+Lee 350
+Choi 300
+Kim 250
+Bae 200
+Holy 180
+Han 50
+Univ 40
